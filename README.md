@@ -1,5 +1,7 @@
-### Olá! Eu sou a Juliana Lopes das Virgens
-
+### 
+<div align="center">
+<h2> Olá! Seja bem-vindo!</h2>
+</div>
 <div align="center">
   <a href="https://julianavirgens88">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianavirgens88&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -17,10 +19,13 @@
   <a href = "mailto:julianalvirgens@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
+  
+   ![Snake animation](https://github.com/julianavirgens88/julianavirgens88/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 
  
-  ![Snake animation](https://github.com/julianavirgens88/julianavirgens88/blob/output/github-contribution-grid-snake.svg)
+ 
   
   
