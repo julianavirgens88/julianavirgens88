@@ -3,6 +3,13 @@
 <h2> Olá! Eu sou a Juliana, futura desenvolvedora back-end!</h2>
 </div>
 </br>
+
+
+- 💻 Futura desenvolvedora back-end pela {Reprograma}
+- 👩🏾 Ela/dela
+
+##
+
 </br>
 <div align="center">
   <a href="https://julianavirgens88">
