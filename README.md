@@ -5,7 +5,7 @@
 </br>
 
 
-- 💻 Futura desenvolvedora back-end pela {Reprograma}
+- 💻 Desenvolvedora back-end pela {Reprograma}
 - 👩🏾 Ela/dela
 
 ##
