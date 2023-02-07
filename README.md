@@ -1,6 +1,6 @@
 </br>
 <div align="center">
-<h2> Olá! Eu sou a Juliana, futura desenvolvedora back-end!</h2>
+<h2> Olá! Eu sou a Juliana!</h2>
 </div>
 </br>
 
